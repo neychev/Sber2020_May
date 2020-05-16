@@ -5,7 +5,7 @@ Practice feature importances:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/Sber2020_May/blob/master/day02/day02_feature_importance_exercises.ipynb)
 
 Intro to DL:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/Sber2020_May/blob/master/day02/day02_Linear_models_and_Ensembles.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neychev/Sber2020_May/blob/master/day02/day02_intro_to_pytorch.ipynb)
 
 
 
